@@ -1,4 +1,7 @@
 # Django Student Management System (beta)
+
+# 学生管理系统
+
 This is a Simple Student Management System Developed for Educational Purpose using Python (Django).
 Feel free to make changes based on your requirements.
 
